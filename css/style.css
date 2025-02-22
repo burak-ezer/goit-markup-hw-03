@@ -124,7 +124,6 @@ button {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
-  
 }
 
 button:hover {
@@ -146,6 +145,15 @@ img {
   border-bottom: 1px solid #e7e9fc;
 }
 
-.balik-div {
+div nav {
   display: flex;
+}
+
+container {
+  padding: 0 15px;
+  width: 1158px;
+}
+
+nav {
+  align-items: center;
 }
