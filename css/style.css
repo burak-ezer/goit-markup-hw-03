@@ -94,6 +94,7 @@ h3 {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 h2 {
   font-size: 36px;
@@ -207,4 +208,19 @@ header > a {
 
 nav {
   display: flex;
+}
+
+.liste-iki {
+  display: flex;
+  gap: 24px;
+}
+
+.liste-uc {
+  display: flex;
+  gap: 24px;
+}
+
+.liste-dort {
+  display: flex;
+  gap: 24px;
 }
