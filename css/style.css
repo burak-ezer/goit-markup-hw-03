@@ -24,6 +24,7 @@ header {
 
 .logo-sinif .logo-span {
   color: #2e2f42;
+  display: inline-block;
 }
 
 .alt-bilgi .logo-sinif .logo-span {
