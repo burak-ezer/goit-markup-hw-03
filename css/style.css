@@ -140,3 +140,11 @@ address {
 img {
   display: block;
 }
+
+.baslik-bar {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.balik-div {
+  display: flex;
+}
