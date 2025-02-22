@@ -15,6 +15,7 @@ header {
 
 .sar_dsa {
   color: #2e2f42;
+  padding: 24px 0;
 }
 
 .sak_dsa {
@@ -168,7 +169,6 @@ container {
 
 .baslik-nav {
   align-items: center;
-  padding: 24px 0;
 }
 
 header > a {
