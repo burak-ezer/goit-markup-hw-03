@@ -168,7 +168,12 @@ header > a {
 
 }
 
-ul {
+.baslik-nav-ul {
+  display: flex;
+  gap: 40px;
+}
+
+.baslik-adrress-ul {
   display: flex;
   gap: 40px;
 }
