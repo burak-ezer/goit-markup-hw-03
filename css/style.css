@@ -136,3 +136,7 @@ button:focus {
 address {
   font-style: normal;
 }
+
+img {
+  display: block;
+}
