@@ -4,7 +4,6 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-
 header {
   font-weight: 700;
   font-size: 18px;
@@ -37,7 +36,8 @@ a {
   color: #2e2f42;
   font-size: 16px;
   display: inline-block;
-  margin-bottom: 16px
+  margin-bottom: 16px;
+  margin-right: 76px;
 }
 a:hover {
   color: #404bbf;
@@ -174,7 +174,6 @@ container {
 
 header > a {
   margin-right: 76px;
-
 }
 
 .baslik-nav-ul {
@@ -197,4 +196,14 @@ header > a {
 
 .bolum-uc {
   padding: 120px 0;
+}
+
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+nav {
+  display: flex;
 }
