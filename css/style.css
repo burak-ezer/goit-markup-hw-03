@@ -177,3 +177,15 @@ header > a {
   display: flex;
   gap: 40px;
 }
+
+.bolum-bir {
+  padding: 188px 0;
+}
+
+.bolum-iki {
+  padding: 120px 0;
+}
+
+.bolum-uc {
+  padding: 120px 0;
+}
