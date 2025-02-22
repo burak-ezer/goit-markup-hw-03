@@ -36,6 +36,8 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
   font-size: 16px;
+  display: inline-block;
+  margin-bottom: 16px
 }
 a:hover {
   color: #404bbf;
