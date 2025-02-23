@@ -248,6 +248,6 @@ visually-hidden {
 }
 
 
-.ele-dort, .eleman-uc {
+.ele-dort {
   width: calc((100% - 72px) / 4);
 }
