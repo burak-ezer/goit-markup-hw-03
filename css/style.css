@@ -254,3 +254,7 @@ visually-hidden {
 .bolum-uc .uca-h {
   text-align: center;
 }
+
+.alt-bilgi a {
+  display: inline-block;
+}
