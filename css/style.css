@@ -242,7 +242,7 @@ div {
 
 
 .visually-hidden {
-  visibility: hidden;
+  visibility: collapse;
 }
 
 .bolum-uc p {
