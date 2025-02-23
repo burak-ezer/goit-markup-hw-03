@@ -70,6 +70,10 @@ section.bolum-bir h1 {
   max-width: 496px;
 }
 
+.bolum-dort {
+  padding: 120px 0;
+}
+
 .bolum-uc {
   background-color: #f4f4fd;
 }
