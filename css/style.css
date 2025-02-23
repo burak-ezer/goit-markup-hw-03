@@ -78,6 +78,7 @@ section.bolum-bir h1 {
   border-radius: 0px 0px 4px 4px;
 }
 
+
 .eleman-iki {
   flex-basis: calc((100% - 72px) / 4);
 }
