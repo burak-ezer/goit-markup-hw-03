@@ -218,7 +218,6 @@ nav {
 .liste-iki {
   display: flex;
   gap: 24px;
-  width: calc((100% - 72px) / 4);
 }
 
 .liste-uc {
@@ -242,4 +241,8 @@ div {
 
 visually-hidden {
   visibility: hidden;
+}
+
+.bolum-uc p {
+  text-align: center;
 }
