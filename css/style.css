@@ -246,3 +246,7 @@ visually-hidden {
 .bolum-uc p {
   text-align: center;
 }
+
+.ele-dort {
+  width: calc((100% - 72px) / 4);
+}
