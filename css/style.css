@@ -38,6 +38,7 @@ a {
   font-size: 16px;
   margin-bottom: 16px;
   margin-right: 76px;
+  display: inline-block;
 }
 a:hover {
   color: #404bbf;
