@@ -256,6 +256,6 @@ visually-hidden {
   text-align: center;
 }
 
-.bolum-uc .parca-uc {
+.bolum-uc div {
   width: calc((100% - 72px) / 4);
 }
