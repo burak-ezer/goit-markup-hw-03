@@ -78,7 +78,6 @@ section.bolum-bir h1 {
   border-radius: 0px 0px 4px 4px;
 }
 
-
 .eleman-iki {
   flex-basis: calc((100% - 72px) / 4);
 }
@@ -197,7 +196,6 @@ header > a {
   gap: 40px;
 }
 
-
 .baslik-adrress-ul {
   display: flex;
   gap: 40px;
@@ -262,7 +260,7 @@ div {
   text-align: center;
 }
 
-.visually-hidden{
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
