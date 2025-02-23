@@ -127,6 +127,7 @@ p {
   letter-spacing: 0.03em;
   color: #4d5ae5;
   font-size: 18px;
+  display: inline-block;
 }
 
 button {
@@ -254,8 +255,4 @@ visually-hidden {
 
 .bolum-uc .uca-h {
   text-align: center;
-}
-
-.alt-bilgi a {
-  display: inline-block;
 }
