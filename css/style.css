@@ -4,7 +4,6 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-
 header {
   font-weight: 700;
   font-size: 18px;
@@ -26,7 +25,6 @@ header {
 .logo-sinif .logo-span {
   color: #2e2f42;
 }
-
 
 .alt-bilgi .logo-sinif {
   display: inline-block;
@@ -60,7 +58,6 @@ a:focus {
 .bolum-bir {
   background-color: #2e2f42;
 }
-
 
 section.bolum-bir h1 {
   font-size: 56px;
@@ -214,7 +211,6 @@ header > a {
   display: flex;
 }
 
-
 nav {
   display: flex;
 }
@@ -225,12 +221,10 @@ nav {
   width: calc((100% - 72px) / 4);
 }
 
-
 .liste-uc {
   display: flex;
   gap: 24px;
 }
-
 
 .liste-dort {
   display: flex;
@@ -239,14 +233,12 @@ nav {
   row-gap: 48px;
 }
 
-
 div {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
   margin-bottom: 8px;
 }
-
 
 visually-hidden {
   visibility: hidden;
