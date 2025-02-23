@@ -240,7 +240,7 @@ div {
   margin-bottom: 8px;
 }
 
-visually-hidden {
+.visually-hidden {
   visibility: hidden;
 }
 
