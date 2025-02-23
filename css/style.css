@@ -74,6 +74,8 @@ section.bolum-bir h1 {
 
 .bolum-uc .eleman-uc {
   background-color: #ffffff;
+  width: calc((100% - 72px) / 4);
+  border-radius: 10px 10px 4px 4px;
 }
 
 footer {
@@ -245,8 +247,4 @@ div {
 
 .bolum-uc .uca-h {
   text-align: center;
-}
-
-.eleman-uc {
-  width: calc((100% - 72px) / 4);;
 }
