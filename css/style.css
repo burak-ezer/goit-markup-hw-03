@@ -82,6 +82,10 @@ section.bolum-bir h1 {
   width: calc((100% - 72px) / 4);
 }
 
+.ele-dort {
+  width: calc((100% - 72px) / 4);
+}
+
 footer {
   background-color: #2e2f42;
   font-family: 'Raleway', sans-serif;
