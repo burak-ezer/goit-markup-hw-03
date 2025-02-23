@@ -78,6 +78,10 @@ section.bolum-bir h1 {
   border-radius: 0px 0px 4px 4px;
 }
 
+.eleman-uc {
+  width: calc((100% - 72px) / 4);
+}
+
 footer {
   background-color: #2e2f42;
   font-family: 'Raleway', sans-serif;
