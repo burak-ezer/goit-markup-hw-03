@@ -255,3 +255,7 @@ visually-hidden {
 .bolum-uc .uca-h {
   text-align: center;
 }
+
+.bolum-uc .eleman-uc {
+  width: calc((100% - 72px) / 4);
+}
