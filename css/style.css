@@ -178,10 +178,6 @@ img {
   display: flex;
 }
 
-container {
-  padding: 0 15px;
-}
-
 .baslik-nav {
   align-items: center;
 }
