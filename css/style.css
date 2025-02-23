@@ -247,6 +247,6 @@ visually-hidden {
   text-align: center;
 }
 
-.ele-dort {
+.ele-dort, .eleman-uc {
   width: calc((100% - 72px) / 4);
 }
