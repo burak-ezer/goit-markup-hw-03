@@ -246,3 +246,7 @@ div {
 .bolum-uc .uca-h {
   text-align: center;
 }
+
+.eleman-uc {
+  width: calc((100% - 72px) / 4);;
+}
