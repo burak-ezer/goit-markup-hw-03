@@ -237,3 +237,7 @@ div {
   border-top: none;
   margin-bottom: 8px;
 }
+
+visually-hidden {
+  visibility: hidden;
+}
