@@ -252,21 +252,8 @@ div {
   padding: 32px 0;
 }
 
-
 .bolum-uc .uca-h {
   text-align: center;
-}
-
-.eleman-iki {
-  flex-basis: calc((100% - 72px) / 4);
-}
-
-.eleman-uc {
-  flex-basis: calc((100% - 72px) / 4);
-}
-
-.ele-dort {
-  flex-basis: calc((100% - 72px) / 4);
 }
 
 .visually-hidden {
@@ -284,10 +271,6 @@ div {
 
 .bolum-dort .liste-dort {
   flex-wrap: wrap;
-}
-
-.bolum-dort .liste-dort .ele-dort{
-  width: calc((100% - 72px) / 3);
 }
 
 header .container {
