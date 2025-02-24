@@ -230,7 +230,6 @@ nav {
 .liste-dort {
   display: flex;
   gap: 24px;
-  row-gap: 48px;
 }
 
 div {
@@ -239,8 +238,6 @@ div {
   border-top: none;
   margin-bottom: 8px;
 }
-
-
 
 .bolum-uc p {
   text-align: center;
