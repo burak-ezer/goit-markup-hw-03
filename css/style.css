@@ -188,6 +188,10 @@ header > a {
   gap: 40px;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .baslik-adrress-ul {
   display: flex;
   gap: 40px;
