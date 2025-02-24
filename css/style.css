@@ -152,17 +152,12 @@ button:hover {
   background-color: #404bbf;
 }
 
-.ele-dort {
-  flex-basis: calc((100% - 72px) / 4);
-}
-
 button:focus {
   background-color: #404bbf;
 }
 address {
   font-style: normal;
 }
-
 
 img {
   display: block;
