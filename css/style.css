@@ -267,6 +267,6 @@ div {
   flex-wrap: wrap;
 }
 
-header > div {
+header .container {
   display: flex;
 }
