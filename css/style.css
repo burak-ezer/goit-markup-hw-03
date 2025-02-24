@@ -272,6 +272,10 @@ div {
   flex-wrap: wrap;
 }
 
+.bolum-dort .liste-dort .ele-dort{
+  width: calc((100% - 72px) / 3);
+}
+
 header .container {
   display: flex;
 }
