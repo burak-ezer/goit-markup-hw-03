@@ -213,8 +213,6 @@ ul {
   padding: 0 15px;
 }
 
-
-
 nav {
   display: flex;
 }
@@ -232,6 +230,7 @@ nav {
 .liste-dort {
   display: flex;
   gap: 24px;
+  row-gap: 48px;
 }
 
 div {
