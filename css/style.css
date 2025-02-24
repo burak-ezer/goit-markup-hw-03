@@ -267,10 +267,6 @@ div {
   flex-wrap: wrap;
 }
 
-li {
-  width: calc((100% - 72px) / 4);
-}
-
 header > div {
   display: flex;
 }
