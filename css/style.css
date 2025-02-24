@@ -209,7 +209,6 @@ header > a {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
-  display: flex;
 }
 
 nav {
@@ -229,7 +228,6 @@ nav {
 .liste-dort {
   display: flex;
   gap: 24px;
-  flex-wrap: wrap;
   row-gap: 48px;
 }
 
