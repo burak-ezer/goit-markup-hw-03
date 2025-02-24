@@ -212,7 +212,6 @@ ul {
 .container {
   width: 1158px;
   margin: 0 auto;
-  padding: 0 15px;
 }
 
 nav {
@@ -266,6 +265,10 @@ div {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
+}
+
+.ele-dort {
+  width: calc((100% - 48px) / 3);
 }
 
 .bolum-dort .liste-dort {
