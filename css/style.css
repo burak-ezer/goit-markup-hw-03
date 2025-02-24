@@ -267,11 +267,9 @@ div {
   overflow: hidden;
 }
 
-.liste-dort {
+.bolum-dort .liste-dort {
   flex-wrap: wrap;
 }
-
-
 
 header .container {
   display: flex;
