@@ -4,6 +4,10 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 header {
   font-weight: 700;
   font-size: 18px;
@@ -283,8 +287,4 @@ div {
 
 header .container {
   display: flex;
-}
-
-.bolum-dort .liste-dort {
-  flex-wrap: wrap;
 }
