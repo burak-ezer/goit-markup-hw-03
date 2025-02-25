@@ -284,3 +284,7 @@ div {
 header .container {
   display: flex;
 }
+
+.bolum-dort .liste-dort {
+  flex-wrap: wrap;
+}
